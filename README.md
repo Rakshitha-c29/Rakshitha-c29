@@ -4,11 +4,9 @@ Computer Science Engineering student who builds backend systems and AI-powered a
 
 ### Skills
 
-**Backend:** Node.js, Express.js, REST APIs, MongoDB, PostgreSQL<br/>
-**AI:** LLMs, RAG, LangChain, Hugging Face<br/>
-**Languages:** JavaScript, Python, SQL<br/>
-**Tools:** Git, Docker, Postman
+<img src="./skills.svg" alt="Skills: Node.js, Express, Redis, Elasticsearch, PostgreSQL, MongoDB, React, TypeScript, JavaScript, Python, LangChain, Hugging Face, Docker, Git, Jest, Postman" width="100%" />
 
 ### Contact
+
 
 [LinkedIn](https://linkedin.com/in/rakshitha-c-4965772a1) · Rakshitha.chandrashekar29@gmail.com
