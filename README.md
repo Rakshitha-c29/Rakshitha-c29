@@ -11,4 +11,4 @@ Computer Science Engineering student who builds backend systems and AI-powered a
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN) · YOUR-EMAIL@gmail.com
+[LinkedIn](https://linkedin.com/in/rakshitha-c-4965772a1) · Rakshitha.chandrashekar29@gmail.com
